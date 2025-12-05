@@ -1,0 +1,14 @@
+# Requirements for course_github_test project
+
+# For testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# For code quality
+flake8>=6.0.0
+black>=23.0.0
+
+# Other dependencies
+requests>=2.28.0
+numpy>=1.24.0
+pandas>=2.0.0
